@@ -2,7 +2,7 @@
 
 </br>
 
-💻 I'm a frontend developer at Compass UOL.
+💻 I'm a frontend developer at Bradesco.
 </br>
 🏡 Brazilian, based in Recife, PE.
 </br>
